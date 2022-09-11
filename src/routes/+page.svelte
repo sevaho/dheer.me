@@ -2,9 +2,13 @@
 	import SocialButton from '$lib/SocialButton.svelte';
 
 	let socials = [
-		{ name: 'Facebook', href: 'https://facebook.com', color: 'blue-500' },
-		{ name: 'Pintrest', href: 'https://pintrest.com', color: 'red-600' },
-		{ name: 'LinkedIn', href: 'https://linkedin.com', color: 'blue-600' }
+		{ name: 'Facebook', href: 'https://www.facebook.com/sofie.dheer', color: '#4267B2' },
+		{ name: 'Pintrest', href: 'https://www.facebook.com/sofie.dheer', color: '#E60023' },
+		{
+			name: 'LinkedIn',
+			href: 'https://www.linkedin.com/in/sofie-d-heer-43987717b/',
+			color: '#0072b1'
+		}
 	];
 </script>
 
@@ -23,5 +27,10 @@
 				<SocialButton {item} />
 			{/each}
 		</div>
+		<p class="text-center text-xl md:text-3l mt-10">
+			Contact: <a class="text-sky-400 underline decoration-sky-500" href="mailto:sofie@dheer.me"
+				>sofie@dheer.me</a
+			>
+		</p>
 	</div>
 </div>
