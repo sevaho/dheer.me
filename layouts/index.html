@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+{{- partial "head.html" . -}}
+<body id="page-top">
+{{- partial "header.html" . -}}
+        <!-- Masthead-->
+        <header class="masthead">
+            <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+                <div class="d-flex justify-content-center">
+                    <div class="text-center">
+                        <h1 class="mx-auto my-0 text-uppercase">{{ .Params.main.title }}</h1>
+                        <a class="btn btn-primary x-read-more-btn" href="#about">{{ .Params.main.call_to_action_text }}</a>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- About-->
+        <section class="about-section text-center" id="about">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2 class="secondary-color-text mb-5">{{ .Params.about.title }}</h2>
+
+                      <div class="row justify-content-center">
+                        <div class="col-6">
+                        {{ $image := resources.Get .Params.about.image }}
+                        {{ $resized := $image.Resize "1000x webp q90" }}
+                        <img src="{{$resized.RelPermalink}}" class="img-fluid rounded" alt="..." />
+                        </div>
+                        <div class="col-6">
+                        <p class="text-white-50">{{ .Params.about.description }}</p>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Projects-->
+        <section class="projects-section bg-light" id="projects">
+                  <h2 class="text-black-90 mb-5 text-center">Projecten</h2>
+            <div class="container px-4 px-lg-5">
+                <!-- Featured Project Row-->
+
+                {{ range $k, $v := .Site.RegularPages }}
+                    <div class="row gx-0 justify-content-center">
+                        <div class="col-lg-6">
+                            <a href="{{ .RelPermalink }}">
+                                {{ $image := resources.Get .Params.img }}
+                                {{ $resized := $image.Resize "1000x webp q90" }}
+                                <img class="img-fluid" src="{{$resized.RelPermalink}}" alt="..." />
+                            </a>
+                        </div>
+                        {{ if mod $k 2 | eq 0 }}
+                        <div class="col-lg-6">
+                        {{ else }}
+                        <div class="col-lg-6 order-lg-first">
+                        {{ end }}
+                            <div class="primary-color text-center h-100 project">
+                                <div class="d-flex h-100">
+                                    <div class="project-text w-100 my-auto text-center text-lg-right">
+                                        <h4 class="text-white">{{ .Title }}</h4>
+                                        <p class="mb-0 text-white-50">{{ .Summary }}</p>
+                                        <hr class="d-none d-lg-block mb-0 me-0" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{ end }}
+            </div>
+        </section>
+        <!-- Contact-->
+        <section class="contact-section primary-color pb-5">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-map-marked-alt secondary-color-text mb-2"></i>
+                                <h4 class="text-uppercase m-0">Adres</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small text-black-50">{{ .Params.address }}</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-envelope secondary-color-text mb-2"></i>
+                                <h4 class="text-uppercase m-0">E-mail</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small"><a class="secondary-color-text" href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-mobile-alt secondary-color-text mb-2"></i>
+                                <h4 class="text-uppercase m-0">GSM</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small"><a class="secondary-color-text" href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="social d-flex justify-content-center">
+                    <a class="mx-2" href="{{ .Params.pinterest }}"><i class="fab fa-pinterest"></i></a>
+                    <a class="mx-2" href="{{ .Params.facebook }}"><i class="fab fa-facebook-f"></i></a>
+                    <a class="mx-2" href="{{ .Params.linkedin }}"><i class="fab fa-linkedin"></i></a>
+                </div>
+            </div>
+        </section>
+{{- partial "footer.html" . -}}
+</body>
+</html>

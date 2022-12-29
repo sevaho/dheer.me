@@ -1,0 +1,6 @@
+{
+	"/": [],
+	"/sitemap.xml": [
+		"src/routes/sitemap.xml/+server.js"
+	]
+}

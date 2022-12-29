@@ -1,0 +1,6 @@
+<!-- Footer-->
+<footer class="footer primary-color small text-center text-white-50">
+<div class="container px-4 px-lg-5">Copyright &copy; {{ .Site.Title }} {{ now.Format "2006"}}</div></footer>
+
+{{ $js := resources.Get "js/main.js" | js.Build | resources.Minify | fingerprint -}}
+<script src="{{ $js.RelPermalink }}"></script>

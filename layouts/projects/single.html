@@ -1,0 +1,42 @@
+<html lang="en">
+{{- partial "head.html" . -}}
+<body id="page-top">
+{{- partial "header_in_list.html" . -}}
+
+<section class="pt-5 pb-5">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-lg-8">
+              <div class="content">
+                {{ .Content }}
+              </div>
+            </div>
+        </div>
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+          <div class="col-lg-8">
+            <div class="pswp-gallery" id="gallery">
+            {{ range $k, $v := .Params.gallery }}
+            {{ $image := resources.Get $v.src }}
+
+            {{ $resized := $image.Resize "2500x webp q99" }}
+              <a
+                href="{{$resized.RelPermalink}}"
+                data-pswp-width="{{ $resized.Width}}"
+                data-pswp-height="{{ $resized.Height}}"
+                target="_blank"
+              >
+                {{ $thumbnail := $image.Resize "400x webp q85" }}
+                <figure class="text-center">
+                  <img class="rounded" src="{{ $thumbnail.RelPermalink }}" alt=""/>
+                </figure>
+              </a>
+            {{ end }}
+            </div>
+          </div>
+        </div>
+  </div>
+</section>
+
+{{- partial "footer.html" . -}}
+</body>
+</html>
