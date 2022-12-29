@@ -1,0 +1,32 @@
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    {{ with resources.Get "favicon.png" }}
+    {{ with .Resize "15x webp" }}
+    <link rel="icon" href="{{ .RelPermalink }}" />
+    {{ end }}
+    {{ end }}
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.4/photoswipe.min.css" integrity="sha512-TdCx5ObKpq3+lwUdiXFgFLhqwTB98YsdaQWSJrwkOz084qaeO86+NMYfU/pnpPo1pDVah0a7yvFmbcvI8ZiGAw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- minified Bootstrap -->
+    {{ $style := resources.Get "css/bootstrap.css" | resources.Minify }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+    <!-- minified main scss -->
+ 
+    {{ $style := resources.Get "css/main.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
+
+    {{ $title := print .Site.Title " | " .Title }}
+    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+    <title>{{ $title }}</title>
+</head>
