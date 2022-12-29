@@ -45,7 +45,7 @@
                     <div class="row gx-0 justify-content-center">
                         <div class="col-lg-6">
                             <a href="{{ .RelPermalink }}">
-                                {{ $image := resources.Get .Params.img }}
+                                {{ $image := resources.Get (.Params.img | default "images/bg.jpg") }}
                                 {{ $resized := $image.Resize "1000x webp q90" }}
                                 <img class="img-fluid" src="{{$resized.RelPermalink}}" alt="..." />
                             </a>
