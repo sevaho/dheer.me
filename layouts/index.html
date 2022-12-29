@@ -22,12 +22,12 @@
                         <h2 class="secondary-color-text mb-5">{{ .Params.about.title }}</h2>
 
                       <div class="row justify-content-center">
-                        <div class="col-6">
+                        <div class="col-md-6 mb-3 mb-md-0">
                         {{ $image := resources.Get .Params.about.image }}
                         {{ $resized := $image.Resize "1000x webp q90" }}
                         <img src="{{$resized.RelPermalink}}" class="img-fluid rounded" alt="..." />
                         </div>
-                        <div class="col-6">
+                        <div class="col-md-6 mb-3 mb-md-0">
                         <p class="text-white-50">{{ .Params.about.description }}</p>
                         </div>
                       </div>
