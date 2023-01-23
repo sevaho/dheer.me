@@ -9,3 +9,5 @@ gallery_folder: images/kleuterschool_appartement
 # title
 
 content
+
+PDF [principes](/files/Principes.pdf)
