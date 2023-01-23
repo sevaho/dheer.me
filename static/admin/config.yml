@@ -4,6 +4,13 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
+  - name: 'Index'
+    label: 'Index'
+    file: 'content/_index.md'
+    editor:
+      preview: false
+    fields:
+      - { label: 'About', name: 'about.description', widget: 'string' }
   - name: 'projects'
     label: 'Projects'
     folder: 'content/projects'
@@ -14,4 +21,6 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'integer' }
+      - { label: 'Year', name: 'year', widget: 'integer' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
