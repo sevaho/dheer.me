@@ -1,4 +1,5 @@
 ---
+title: Index page
 main:
   title: "D'heer Architecture"
   call_to_action_text: "Lees meer"
