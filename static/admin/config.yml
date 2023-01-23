@@ -14,6 +14,7 @@ collections:
       - label: "About"
         name: "about"
         widget: "object"
+        summary: 'About'
         fields:
           - {label: "Description", name: "description", widget: "string"}
 
@@ -23,7 +24,7 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Summary', name: 'summary', widget: 'string' }
