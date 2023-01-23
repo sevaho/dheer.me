@@ -6,7 +6,8 @@ public_folder: /img
 collections:
   - name: 'Index'
     label: 'Index'
-    file: 'content/_index.md'
+    folder: 'content/projects'
+    file: '_index.md'
     editor:
       preview: false
     fields:
