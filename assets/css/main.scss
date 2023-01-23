@@ -4,10 +4,10 @@ $secondary-color: #baa797;
 
 // TEMPLATE VARIABLES
 {{ $image := resources.Get "images/bg.jpg" }}
-{{ $masthead_image := $image.Resize "1900x webp q90" }}
+{{ $masthead_image := $image.Resize "1900x webp q50" }}
 
 {{ $image := resources.Get "images/PC160860.jpg" }}
-{{ $contact_page_image := $image.Resize "1900x webp q90" }}
+{{ $contact_page_image := $image.Resize "1900x webp q50" }}
 
 html {
   scroll-padding-top: calc(4.5rem - 1px);
