@@ -1,5 +1,7 @@
-> UNDER CONSTRUCTION
+# dheer.me
 
-# About
+> Portfolio website for Sofie D'heer architect in Dendermonde (BE).
 
-This repository contains the portfolio website for [dheer.me](https://dheer.me) a portfolio website written with [sveltekit](https://kit.svelte.dev/) + [tailwind](https://tailwindcss.com/).
+## Changing content
+
+Changing content is made possible with [netlify cms](https://www.netlifycms.org) by visiting the [admin page](dheer.me/admin).
