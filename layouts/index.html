@@ -41,7 +41,7 @@
             <div class="container px-4 px-lg-5">
                 <!-- Featured Project Row-->
 
-                {{ range $k, $v := .Site.RegularPages }}
+                {{ range $k, $v := first 5 .Site.RegularPages.ByWeight }}
                     <div class="row gx-0 justify-content-center">
                         <div class="col-lg-6">
                             <a href="{{ .RelPermalink }}">
@@ -57,20 +57,29 @@
                         {{ end }}
                             <div class="primary-color text-center h-100 project">
                                 <div class="d-flex h-100">
-                                    <div class="project-text w-100 my-auto text-center text-lg-right">
+                                    <div class="d-flex flex-column w-100">
+                                        <div>
+                                            <small class="float-end text-muted pt-3 pe-3 d-block">{{ .Params.Year }}</small>
+                                        </div>
+                                    <div class="w-100 my-auto">
+                                    <div class="project-text text-center">
                                         <h4 class="text-white">{{ .Title }}</h4>
                                         <p class="mb-0 text-white-50">{{ .Summary }}</p>
-                                        <hr class="d-none d-lg-block mb-0 me-0" />
+                                        <hr class="d-none d-lg-block mb-0 me-0 mb-4" />
+                                    </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    {{if .Truncated }}
+                    <a href="{{ .RelPermalink}}">read more</a>
+                    {{ end }}
                 {{ end }}
             </div>
         </section>
         <!-- Contact-->
-        <section class="contact-section primary-color pb-5">
+        <section class="contact-section primary-color pb-5" id="contact">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-md-4 mb-3 mb-md-0">
