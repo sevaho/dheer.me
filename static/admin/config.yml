@@ -6,7 +6,7 @@ public_folder: /img
 collections:
   - name: 'Index'
     label: 'Index'
-    folder: 'content/projects'
+    folder: 'content'
     file: '_index.md'
     editor:
       preview: false
@@ -22,6 +22,4 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Summary', name: 'summary', widget: 'string' }
-      - { label: 'Weight', name: 'weight', widget: 'integer' }
-      - { label: 'Year', name: 'year', widget: 'integer' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
