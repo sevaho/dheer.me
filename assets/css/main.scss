@@ -196,15 +196,14 @@ body {
     border-left: 0.5rem solid var(--secondary-color);
   }
 }
-.projects-section .project-text {
-  padding: 3rem;
+.project-text {
+  padding: 2rem;
   font-size: 90%;
 }
 @media (min-width: 992px) {
-  .projects-section .project-text {
-    padding: 5rem;
+  .project-text {
   }
-  .projects-section .project-text hr {
+.project-text hr {
     border-color: var(--secondary-color);
     border-width: 0.25rem;
     width: 30%;
