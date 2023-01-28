@@ -1,6 +1,8 @@
 baseURL = 'https://dheer.me'
 languageCode = 'nl-be'
-title = "Sofie D'heer"
+title = "Sofie D'heer architect. Portfolio website."
+
+enableRobotsTXT = true
 
 ## Menu Items
 [menu]

@@ -1,16 +1,24 @@
 <head>
+    {{ $title := print .Site.Title " | " .Title }}
+    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+
+    <title>{{ $title }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="description" content="{{ .Site.Params.Description }}" />
+
+    <meta name="description" content="{{ .Site.Params.Description }}"/>
+    <meta name="og:description" content="{{ .Site.Params.Description }}"/>
+    <meta name="og:title" content="{{ $title }}"/>
+    <meta property="og:type" content="website"/>
+
+        <meta name="keywords" content="Sofie D'heer, architectuur, portfolio, D'heer architect, architect."/>
 
     {{ with resources.Get "favicon.png" }}
     {{ with .Resize "15x webp" }}
     <link rel="icon" href="{{ .RelPermalink }}" />
     {{ end }}
     {{ end }}
-    <!-- Font Awesome icons (free version)-->
-    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
     <!-- Google fonts-->
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
@@ -27,10 +35,22 @@
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
 
 
+    <script type="application/ld+json">
+    {
+    "@context": "https://schema.org/",
+    "@type": "Portfolio website",
+    "name": "{{ .Site.Title }}",
+    "author": {
+        "@type": "Person",
+        "name": "sofie@dheer.me"
+    },
+    "description": "{{ .Site.Params.Description }}"
+    }
+    </script>
+
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous" async></script>
     <!-- netlify identity -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" async></script>
 
-    {{ $title := print .Site.Title " | " .Title }}
-    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
-    <title>{{ $title }}</title>
 </head>
