@@ -1,6 +1,6 @@
 ---
 title: Kleuterschool met appartementen
-summary: Vervang dit textje door iets anders.
+summary: "Het opbouwen van een klimaatneutrale kleiterschool met woningen. "
 weight: 1
 author: Sofie D'heer
 img: images/kleuterschool_appartement/beeld_1_entrance.png
