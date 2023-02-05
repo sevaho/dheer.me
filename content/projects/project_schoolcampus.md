@@ -11,7 +11,7 @@ gallery_folder: images/projecten_schoolcampus
 
 3de bachelor architectuur. 
 
-Deze opdracht omvatte het creeëren van een scholencampus ter hoogte van Dok Noord in Gent. 
+Deze opdracht omvatte het creëren van een scholencampus ter hoogte van Dok Noord in Gent. 
 
 De campus is gericht op bedrijvigheid met in het gebouw zowel een school als bedrijven gevestigd zijn. Dit geeft een symbiose tussen de twee. 
 
