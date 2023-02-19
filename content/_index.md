@@ -7,8 +7,8 @@ about:
     kleine schaal. Waarbij de verschillende schalen niet van elkaar kunnen
     losgekoppeld worden. Ook de koppeling tussen het oude en het nieuwe is
     hierbij belangrijk. In 2018 studeerde ik af aan de KuLeuven opleiding
-    'Master in de archiitectuur. Hierna studeerde ik verder in de opleiding
-    'Master in de stedenbouw en ruimtelijke planning'. Na twee jaar stage ben ik
+    'Master in de Architectuur. Hierna studeerde ik verder in de opleiding
+    'Master in de Stedenbouw en Ruimtelijke planning'. Na twee jaar stage ben ik
     nog steeds actief in voorgenoemd bureau waarbij ik momenteel ook bezig ben
     met het postgraduaat 'Renovatietechnieken en Monumentenzorg'. "
   image: images/profile.jpeg
