@@ -1,10 +1,10 @@
 ---
 title: Kleuterschool in een klimaat neutrale wijk
-summary: "Een opdracht waarbij het klimaat centraal staat. Het doel was een
-  volledige wijk op te bouwen die  zelfvoorzienend  is. In dit project was het
-  kernthema water. In het project werd dit op twee manieren opgevat. Als eerste
-  het effectief gaan hergebruiken van water. En als tweede een bewustzijn
-  creëren van kleins af. Dit op een speelse manier. "
+summary: "In deze opdracht was het doel om via verschillende ontwerpen een
+  volledig klimaat neutrale wijk op te bouwen. In dit specifieke ontwerp was het
+  kernthema water, dat via op twee manieren werd opgevat. Als eerste het
+  effectief gaan hergebruiken van water. En als tweede een bewustzijn creëren
+  van kleins af aan. Dit op een speelse manier. "
 weight: 1
 author: Sofie D'heer
 img: images/kleuterschool_appartement/beeld_1_entrance.png
