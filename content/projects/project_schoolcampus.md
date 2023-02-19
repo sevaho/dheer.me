@@ -1,5 +1,5 @@
 ---
-title: Project Scholencampus
+title: Scholencampus
 summary: "Het creëren van een scholencampus in samenwerking met bedrijven. Een
   opdracht die zich bevindt aan de dokken van Gent waar reeds verschillende
   bedrijven gevestigd zijn.  "
