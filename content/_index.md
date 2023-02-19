@@ -2,9 +2,9 @@
 facebook: https://www.facebook.com/sofie.dheer
 about:
   title: Over Sofie
-  description: Sofie. Odio Enimodi Nonve Sunti Tem Incidu Velqui Lauda Assume
-    Volupt Nih Es Autem Officia Culpa Impedit Harum Blandi Si Quis Dol Facilis
-    Verodo Tot Quib Quoden
+  description: "Ik ben Sofie D'heer en werk als architect bij Architectenbureau
+    Van Severen. Gepassioneerde door de gebouwde werkelijkheid op grote en
+    kleine schaal. Waarbij elk gebouw "
   image: images/profile.jpeg
 phone: +32 485 43 28 10
 address: Leopoldlaan 30, 9200 Dendermonde
