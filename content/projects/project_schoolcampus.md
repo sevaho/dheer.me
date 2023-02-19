@@ -1,7 +1,8 @@
 ---
 title: Project Scholencampus
-summary: "Scholencampus die gericht is op bedrijvigheid. De verschillende
-  gebouwen vormen een nieuwe stad. "
+summary: "Het creëren van een scholencampus in samenwerking met bedrijven. Een
+  opdracht die zich bevindt aan de dokken van Gent waar reeds verschillende
+  bedrijven gevestigd zijn.  "
 weight: 1
 author: Sofie D'heer
 img: images/projecten_schoolcampus/Afbeelding1.jpg
