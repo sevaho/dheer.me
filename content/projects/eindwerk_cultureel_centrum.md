@@ -1,7 +1,7 @@
 ---
-title: Eindwerk cultureel centrum Trondheim
+title: Eindwerk Architectuur - Een Cultureel centrum voor Trondheim
 tags:
-    - Architectuur
+  - Architectuur
 summary: Vervang dit textje door iets anders.
 weight: 1
 author: Sofie D'heer
