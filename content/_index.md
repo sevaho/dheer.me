@@ -4,7 +4,13 @@ about:
   title: Over Sofie
   description: "Ik ben Sofie D'heer en werk als architect bij Architectenbureau
     Van Severen. Gepassioneerde door de gebouwde werkelijkheid op grote en
-    kleine schaal. Waarbij elk gebouw "
+    kleine schaal. Waarbij de verschillende schalen niet van elkaar kunnen
+    losgekoppeld worden. Ook de koppeling tussen het oude en het nieuwe is
+    hierbij belangrijk. In 2018 studeerde ik af aan de KuLeuven opleiding
+    'Master in de archiitectuur. Hierna studeerde ik verder in de opleiding
+    'Master in de stedenbouw en ruimtelijke planning'. Na twee jaar stage ben ik
+    nog steeds actief in voorgenoemd bureau waarbij ik momenteel ook bezig ben
+    met het postgraduaat 'Renovatietechnieken en Monumentenzorg'. "
   image: images/profile.jpeg
 phone: +32 485 43 28 10
 address: Leopoldlaan 30, 9200 Dendermonde
