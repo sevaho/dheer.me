@@ -9,8 +9,8 @@ about:
     hierbij belangrijk. In 2018 studeerde ik af aan de KuLeuven opleiding
     'Master in de Architectuur. Hierna studeerde ik verder in de opleiding
     'Master in de Stedenbouw en Ruimtelijke planning'. Na twee jaar stage ben ik
-    nog steeds actief in voorgenoemd bureau waarbij ik momenteel ook bezig ben
-    met het postgraduaat 'Renovatietechnieken en Monumentenzorg'. "
+    nog steeds actief in voorgenoemd bureau dit in combinatie met het
+    postgraduaat 'Renovatietechnieken en Monumentenzorg'. "
   image: images/profile.jpeg
 phone: +32 485 43 28 10
 address: Leopoldlaan 30, 9200 Dendermonde
