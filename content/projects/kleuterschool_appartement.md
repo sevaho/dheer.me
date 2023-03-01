@@ -22,4 +22,3 @@ Het ontwerp is gelegen in een klimaat neutrale wijk het gebruik van water is van
 
 In samenwerken met: Sofie Braem, Liusy Mirzoeva en Justyna Jerzykowska. 
 
-PDF [principes](/files/Principes.pdf)

@@ -15,11 +15,11 @@
             </div>
         </header>
         <!-- About-->
-        <section class="about-section text-center" id="about">
+        <section class="about-section" id="about">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-lg-8">
-                        <h2 class="secondary-color-text mb-5">{{ .Params.about.title }}</h2>
+                    <div class="col-lg-9">
+                        <h2 class="secondary-color-text mb-5 text-center">{{ .Params.about.title }}</h2>
 
                       <div class="row justify-content-center">
                         <div class="col-md-6 mb-3 mb-md-0">
@@ -28,7 +28,7 @@
                         <img src="{{$resized.RelPermalink}}" class="img-fluid rounded" alt="..." />
                         </div>
                         <div class="col-md-6 mb-3 mb-md-0">
-                        <p class="text-white-50">{{ .Params.about.description }}</p>
+                        <div class="text-white-50 about-text">{{ .Params.about.description | markdownify }}</div>
                         </div>
                       </div>
                     </div>
@@ -38,7 +38,7 @@
         <!-- Projects-->
         <section class="projects-section bg-light" id="projects">
                   <h2 class="text-black-90 mb-5 text-center">Projecten</h2>
-            <div class="container px-4 px-lg-5">
+            <div class="container px-4 px-lg-5 ">
                 <!-- Featured Project Row-->
 
                 {{ range $k, $v := first 5 .Site.RegularPages.ByWeight }}
@@ -55,6 +55,7 @@
                         {{ else }}
                         <div class="col-lg-6 order-lg-first">
                         {{ end }}
+                            <a class="text-decoration-none" href="{{ .RelPermalink }}">
                             <div class="primary-color text-center h-100 project">
                                 <div class="d-flex h-100">
                                     <div class="d-flex flex-column w-100">
@@ -65,11 +66,11 @@
                                     <div class="project-text text-center">
                                         <h4 class="text-white">{{ .Title }}</h4>
                                         <p class="mb-0 text-white-50">{{ .Summary }}</p>
-                                        <hr class="d-none d-lg-block mb-0 me-0 mb-4" />
                                     </div>
                                     </div>
                                 </div>
                             </div>
+                            </a>
                         </div>
                     </div>
                     {{if .Truncated }}

@@ -42,6 +42,6 @@ Voorzieningen verspreiden doorheen het gebied om eentonigheid van woongebied ver
 Identiteit van de site respecteren door typologieën niet te sterk te veranderen en bepaalde constructies te behouden. Niet gekozen voor zoveel mogelijk oppervlakte woningen, maar met aandacht voor circulatieruimte en licht en lucht; bv. een omsloten binnentuin is enkel een meerwaarde als die groot genoeg is, anders wordt dat een donker over-schotplekje. Ook een variatie aan typologieën, zodat de herkenbaarheid verhoogd wordt. Op het maaiveld lijkt alles op elkaar, wat het moeilijker maakt om zich te oriënteren. De typologie van de woningen kan nog steeds op elkaar lijken, maar door een andere indeling van de ruimte wordt het patroon toch wat
 minder streng. De binnen- of circulatieruimte die tussen de nieuwe woningen is vrijgelaten, kan ingevuld worden zoals bewoners dat willen; dit kunnen bv. tuintjes worden, volkstuintjes, een pleintje waar de bewoners samen kunnen komen… We verkiezen gemeenschappelijk gebruik, om zo de community te versterken.
 
-PDF:
+PDF [principes](/files/Principes.pdf)
 
 In samenwerking met: Jessika Desmet en Lies Michiels
