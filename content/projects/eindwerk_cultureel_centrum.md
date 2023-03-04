@@ -14,7 +14,7 @@ gallery_folder: images/eindwerk_cultureel_centrum
 
 De omgeving: 
 
-De plek heeft voor mij een dubbele betekenis in de architectuur, langs de ene kant vraagt deze voor een subtiele oplossing, het opgaan in de omgeving, en langs de andere kant is het een soort baken die ontstaat. Hierbij ben ik het gebouw ernaast gaan doortrekken, maar laat ik het uitkomen door een iets opvallendere architectuur. Een architectuur die aandacht geeft aan het water en zo een soort uitkijkpunt wordt.
+De plek, Krigsseilerplassen, heeft voor mij een dubbele betekenis in de architectuur, langs de ene kant vraagt deze voor een subtiele oplossing, het opgaan in de omgeving, en langs de andere kant is het een soort baken die ontstaat. Hierbij ben ik het gebouw ernaast gaan doortrekken, maar laat ik het uitkomen door een iets opvallendere architectuur. Een architectuur die aandacht geeft aan het water en zo een soort uitkijkpunt wordt.
 
 Eén van de belangrijke zaken in architectuur is om de open ruimte te behouden. Men kan de open ruimte die bestaat niet zomaar afnemen van de stad ook al komt er een publiek gebouw te staan. Een aantal stappen worden
 hierbij genomen: de brug Brattørbrua wordt enkel toegankelijk gemaakt voor voetgangers en fietsers, dit niet enkel voor een beter milieu, maar ook omdat deze brug niet volledig geschikt is om zwaar verkeer over te laten
