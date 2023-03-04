@@ -14,6 +14,8 @@ gallery_folder: images/studio_new_york
 
 2de master Stedenbouw en ruimtelijke planning. 
 
+Het creëren van nieuw groen in de straat om de levendigheid van de openbare ruimte te verbeteren. De auto uit de straten verbannen en de openbare ruimte teruggeven: 'For each car a bird, a bee, a family. 
+
 **1. Bees and Birds:** 
 
 Creëren van nieuw groen in de straat om het levendig te houden. Dit genereert ook een betere biodiversiteit en
