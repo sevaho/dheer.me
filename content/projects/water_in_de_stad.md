@@ -23,4 +23,12 @@ Als deelopdracht werd het hergebruik van water verder onderzocht. Het hergebruik
 
 Daarnaast hebben we ook het hergebruikt van water op een grotere schaal waar verschillende functie met elkaar gaan samenwerken om zo een groter verschil te maken. In dit project hebben we te maken met een samenwerking tussen woningen en industrie. Het is opgevallen dat de chemische industrie een behoorlijke hoeveelheid water verbruikt. Via verschillende ingrepen wordt er geprobeerd om het opgevangen water van de woning te gaan hergebruiken in de processen van de industrie.
 
+Ontwerpmatige ingrepen: 
+
+* Bufferen van water onder het aanwezige voetbalveld. 
+* Het creëren van een skatepark dat bij hevige regenval kan dienen als buffer. 
+* Het plaatsen van natuurlijke waterfilters in de woonkern door middel van een wandeling. 
+* Het plaatsen van natuurlijke waterfilters in het industriegebied. 
+* De berm van de E34 optimaal gaan gebruiken door ook hier natuurlijke waterfilters te gaan plaatsen. 
+
 PDF: [eindkrant.pdf](/files/eindkrant-gecomprimeerd.pdf)
