@@ -21,6 +21,6 @@ In dit gebied gaan we proberen om verschillende functies met elkaar te gaan verb
 
 Als deelopdracht werd het hergebruik van water verder onderzocht. Het hergebruik van water werd op verschillende niveaus bekeken. Zo heb je op kleinere schaal het hergebruik van water dat onderling door de woningen wordt voorzien, maar heb je ook de onderlinge relatie tussen de verschillende bedrijven op het industrie terrein. Deze ingreep is niet groot, maar maakt toch al een groot verschil, zeker als deze synergie ook op andere gebieden wordt toegepast. 
 
-Daarnaast hebben we ook het hergebruikt van water op een grotere schaal waar verschillende functie met elkaar gaan samenwerken om zo een groter verschil te maken. In dit project hebben we te maken met een samenwerking tussen woningen en industrie. Het is opgevallen dat de chemische industrie een behoorlijke hoeveelheid water verbruikt. Via verschillende ingrepen wordt er geprobeerd om het opgevangen water van de woning te gaan hergebuirken in de processen van de industrie.
+Daarnaast hebben we ook het hergebruikt van water op een grotere schaal waar verschillende functie met elkaar gaan samenwerken om zo een groter verschil te maken. In dit project hebben we te maken met een samenwerking tussen woningen en industrie. Het is opgevallen dat de chemische industrie een behoorlijke hoeveelheid water verbruikt. Via verschillende ingrepen wordt er geprobeerd om het opgevangen water van de woning te gaan hergebruiken in de processen van de industrie.
 
 PDF: [eindkrant.pdf](/files/eindkrant-gecomprimeerd.pdf)
