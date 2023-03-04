@@ -12,6 +12,8 @@ gallery_folder: images/eindwerk_cultureel_centrum
 ---
 # Masterproef Architectuur - Een Cultureel centrum voor Trondheim
 
+Het creëren van een cultureel centrum op een knooppunt van verschillende (water)wegen, Krigsseilerplassen. Een baken in de stad waar mensen kunnen samenkomen. Een site die zicht openstelt naar de stad en naar het water. 
+
 De omgeving: 
 
 De plek, Krigsseilerplassen, heeft voor mij een dubbele betekenis in de architectuur, langs de ene kant vraagt deze voor een subtiele oplossing, het opgaan in de omgeving, en langs de andere kant is het een soort baken die ontstaat. Hierbij ben ik het gebouw ernaast gaan doortrekken, maar laat ik het uitkomen door een iets opvallendere architectuur. Een architectuur die aandacht geeft aan het water en zo een soort uitkijkpunt wordt.
