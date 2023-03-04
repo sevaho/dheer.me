@@ -18,7 +18,7 @@ In deze opdracht was het doel om via verschillende ontwerpen een volledig klimaa
 
 We kozen ervoor om een kleuterschool te ontwerpen waar alles om water draait. Via verschillende ingrepen zorgen we ervoor dat de kinderen steeds in contact staan met water om zo een het belang van water duidelijk te maken. 
 
-Omdat het gebouw zich in een wijk bevindt worden er appartementen in het gebouw voorzien. Het voorzien van appartemeten heeft als voordeel dat het gebouw nooit leeg zal zijn. Zo blijft er een levendigheid in het gebouw. Het schoolgebouw kan daarbij ook 's avonds gebruikt worden voor een optimaal ruimte gebruik. 
+Omdat het gebouw zich in een wijk bevindt worden er appartementen in het gebouw voorzien. Het voorzien van appartementen heeft als voordeel dat het gebouw nooit leeg zal zijn. Het schoolgebouw kan daarbij ook 's avonds gebruikt worden voor een optimaal ruimte gebruik. 
 
 Het ontwerp is gelegen in een klimaat neutrale wijk het gebruik van water is van toepassing op de gehele wijk. Andere deelgebieden zorgen voor alternatieve oplossingen zoals het planten en telen van hennep als bouwmateriaal of het opwekken van energie voor het hele gebied. 
 
