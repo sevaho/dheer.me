@@ -16,9 +16,9 @@ gallery_folder: images/kleuterschool_appartement
 
 In deze opdracht was het doel om via verschillende ontwerpen een volledig klimaat neutrale wijk op te bouwen. In dit specifieke ontwerp was het kernthema water, dat via op twee manieren werd opgevat. Als eerste het effectief gaan hergebruiken van water. En als tweede een bewustzijn creëren van kleins af aan. Dit op een speelse manier.
 
-We kozen ervoor om een kleuterschool te ontwerpen waar alles om water draait. Op een speelse manier wordt er .  Om een bewustzijn te creëren werd het gebouw opengetrokken met steeds zichten op het water. Door een serre in het gebouw te maken zie je op een directe manier hoe water hergebruikt kan worden. Ook door een aantal klassen aan het water te positioneren kan er op een directe manier een connectie gemaakt worden met het water. 
+We kozen ervoor om een kleuterschool te ontwerpen waar alles om water draait. Via verschillende ingrepen zorgen we ervoor dat de kinderen steeds in contact staan met water om zo een het belang van water duidelijk te maken. 
 
-De appartementen in het gebouw zorgen voor een gemengd gebruik. Zo zal het gebouw nooit leeg zijn en blijft er een levendigheid. Het schoolgebouw kan daarbij ook 's avonds gebruikt worden voor een optimaal ruimte gebruik. 
+Omdat het gebouw zich in een wijk bevindt worden er appartementen in het gebouw voorzien. Het voorzien van appartemeten heeft als voordeel dat het gebouw nooit leeg zal zijn. Zo blijft er een levendigheid in het gebouw. Het schoolgebouw kan daarbij ook 's avonds gebruikt worden voor een optimaal ruimte gebruik. 
 
 Het ontwerp is gelegen in een klimaat neutrale wijk het gebruik van water is van toepassing op de gehele wijk. Andere deelgebieden zorgen voor alternatieve oplossingen zoals het planten en telen van hennep als bouwmateriaal of het opwekken van energie voor het hele gebied. 
 
