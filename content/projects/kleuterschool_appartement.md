@@ -14,11 +14,12 @@ gallery_folder: images/kleuterschool_appartement
 
 1ste master architectuur
 
-In deze kleuterschool draait alles om water. Het gebouw probeert in te zetten op het optimaal hergebruiken van water. Deze methode willen ze op een speelse manier doorgeven aan de kinderen.  Om een bewust zijn te creëren werd het gebouw opengetrokken met steeds zichten op het water. Door een serre in het gebouw te maken zie je op een directe manier hoe water hergebruikt kan worden. Ook door een aantal klassen aan het water te positioneren kan er op een directe manier een connectie gemaakt worden met het water. 
+In deze opdracht was het doel om via verschillende ontwerpen een volledig klimaat neutrale wijk op te bouwen. In dit specifieke ontwerp was het kernthema water, dat via op twee manieren werd opgevat. Als eerste het effectief gaan hergebruiken van water. En als tweede een bewustzijn creëren van kleins af aan. Dit op een speelse manier.
+
+We kozen ervoor om een kleuterschool te ontwerpen waar alles om water draait. Op een speelse manier wordt er .  Om een bewustzijn te creëren werd het gebouw opengetrokken met steeds zichten op het water. Door een serre in het gebouw te maken zie je op een directe manier hoe water hergebruikt kan worden. Ook door een aantal klassen aan het water te positioneren kan er op een directe manier een connectie gemaakt worden met het water. 
 
 De appartementen in het gebouw zorgen voor een gemengd gebruik. Zo zal het gebouw nooit leeg zijn en blijft er een levendigheid. Het schoolgebouw kan daarbij ook 's avonds gebruikt worden voor een optimaal ruimte gebruik. 
 
 Het ontwerp is gelegen in een klimaat neutrale wijk het gebruik van water is van toepassing op de gehele wijk. Andere deelgebieden zorgen voor alternatieve oplossingen zoals het planten en telen van hennep als bouwmateriaal of het opwekken van energie voor het hele gebied. 
 
-In samenwerken met: Sofie Braem, Liusy Mirzoeva en Justyna Jerzykowska. 
-
+In samenwerken met: Sofie Braem, Liusy Mirzoeva en Justyna Jerzykowska.
