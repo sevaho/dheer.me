@@ -18,7 +18,7 @@
         <section class="about-section" id="about">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
-                    <div class="col-lg-9">
+                    <div class="col-lg-10">
                         <h2 class="secondary-color-text mb-5 text-center">{{ .Params.about.title }}</h2>
 
                       <div class="row justify-content-center">
@@ -28,7 +28,9 @@
                         <img src="{{$resized.RelPermalink}}" class="img-fluid rounded" alt="..." />
                         </div>
                         <div class="col-md-6 mb-3 mb-md-0">
-                        <div class="text-white-50 about-text">{{ .Params.about.description | markdownify }}</div>
+                        <div class="text-white-50 about-text">
+                          {{ with .Site.GetPage "/about/description.md" }}{{ .Content }}{{ end }}
+                        </div>
                         </div>
                       </div>
                     </div>
