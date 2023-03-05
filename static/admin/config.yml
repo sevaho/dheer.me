@@ -10,11 +10,12 @@ collections:
     file: '_index.md'
     editor:
       preview: true
+    fields:
+      - { label: 'Adres', name: 'address', widget: 'string' }
 
   - name: 'About'
     label: 'About'
-    folder: 'content/about'
-    file: 'description.md'
+    file: 'about/description.md'
     editor:
       preview: true
     fields:
