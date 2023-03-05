@@ -5,7 +5,7 @@ about:
   image: images/profile.jpeg
 phone: +32 485 43 28 10
 address: Leopoldlaan 30, 9200 Dendermonde
-title: Index page
+title: Portfolio Sofie D'heer
 main:
   title: D'heer Architecture
   call_to_action_text: Lees meer
