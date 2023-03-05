@@ -15,7 +15,8 @@ collections:
 
   - name: 'About'
     label: 'About'
-    file: 'about/description.md'
+    folder: 'content/about'
+    file: 'description.md'
     editor:
       preview: true
     fields:
