@@ -10,13 +10,15 @@ collections:
     file: '_index.md'
     editor:
       preview: true
+
+  - name: 'About'
+    label: 'About'
+    folder: 'content/about'
+    file: 'description.md'
+    editor:
+      preview: true
     fields:
-      - label: "About"
-        name: "about"
-        widget: "object"
-        summary: 'About'
-        fields:
-          - {label: "Description", name: "description", widget: "string"}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'projects'
     label: 'Projects'
