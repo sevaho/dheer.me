@@ -12,7 +12,7 @@ gallery_folder: images/studio_new_york
 ---
 # Studio New York
 
-2de master Stedenbouw en ruimtelijke planning. 
+*2de master Stedenbouw en ruimtelijke planning.* 
 
 Het creëren van nieuw groen in de straat om de levendigheid van de openbare ruimte te verbeteren. De auto uit de straten verbannen en de openbare ruimte teruggeven: 'For each car a bird, a bee, a family. 
 
