@@ -13,7 +13,7 @@ gallery_folder: images/water_in_de_stad
 ---
 # Water in de stad
 
-1ste master stedenbouw en ruimtelijke planning.
+*1ste master stedenbouw en ruimtelijke planning.*
 
 Mensen moeten bewuster worden gemaakt van het feit dat water schaars is geworden. De manier van denken over water zal moeten veranderen. Water mag men niet zomaar verspillen, maar moet men gaan hergebruiken, opvangen en stockeren. In deze opdracht werd er specifiek gewerkt in de gemeente Zwijndrecht. Een gebied waar zowel woongebied aanwezig als industriegebied. 
 
