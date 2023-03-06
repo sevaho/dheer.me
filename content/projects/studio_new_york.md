@@ -14,20 +14,23 @@ gallery_folder: images/studio_new_york
 
 *2de master Stedenbouw en ruimtelijke planning.* 
 
-Het creëren van nieuw groen in de straat om de levendigheid van de openbare ruimte te verbeteren. De auto uit de straten verbannen en de openbare ruimte teruggeven: 'For each car a bird, a bee, a family. 
+Het creëren van nieuw groen in de straat om de levendigheid van de openbare ruimte te verbeteren. De auto uit de straten verbannen en de openbare ruimte teruggeven: 'For each car a bird, a bee, a family. Een opdracht die zich situeerd in Greenpoint, New York. 
+
+Het doel van de opdracht was het creeëren van nieuwe functies als de auto's zouden verdwijnen. Wat doe je met de vrijgekomen ruimtes?, hoe bewegen de mensen zich voort als men geen auto meer heeft?, hoe vang je de bevolkingsgroei op?,...
 
 **1. Bees and Birds:** 
 
-Creëren van nieuw groen in de straat om het levendig te houden. Dit genereert ook een betere biodiversiteit en
-brengt vogels (en andere dieren) naar het gebied. Ontharden van Greenpoint, streven naar infiltratie via
-wadi’s en nieuwe wateroppervlakken. Newtown Creek toegankelijker maken door middel van woonpark.
-Gronden vrijlaten als overstromingsgebied. Eco-eiland als “Île de Derborance”, plek waar natuur
-ongestoord zijn gang kan gaan.
+Als eerste willen we nieuw groen introduceren om de straat levendig te houden. En om een betere biodiversiteit te generen. Het creëren van plaats voor 'Bees and Birds'. 
+We doen dit door te gaan ontharden en door nieuwe wateroppervlakten te maken door bijvoorbeeld wadi's.  
+Er worden ook gronden vrijgelaten als overstromingsgebied bijvoorbeeld zoals een Eco-eiland als “Île de Derborance”, een plek waar natuur ongestoord zijn gang kan gaan.
 
 **2. Families:** 
 
-Meer mensen huisvesten in Greenpoint om te voldoen aan de stijgende bevolking. Extra woningen op fabrieken en
-nieuw woonpark. Mengen van functies om de leefbaarheid van het gebied te vergroten. Naast de private en publieke delen willen we ook semipublieke zones creëren voor de omwonenden direct nabij deze plekken. Dit door inspringingen in de gebouwen, waardoor kleine pleinen ontstaan.
+Als tweede willen we ingaan op het meer huisvesten van mensen in Greenpoint om te voldoen aan de stijgende bevolking. Volgende zaken willen we hierbij voorstellen:
+
+* Extra woningen op fabrieken en een nieuw woonpark. 
+* Mengen van functies om de leefbaarheid van het gebied te vergroten.
+* Naast de private en publieke delen willen we ook semipublieke zones creëren voor de omwonenden direct nabij deze plekken. Dit door inspringingen in de gebouwen, waardoor kleine pleinen ontstaan
 
 **3.Alternatief vervoer:** 
 
