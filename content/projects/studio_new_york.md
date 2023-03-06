@@ -53,7 +53,7 @@ Het ontwerpen van de verschillende elementen wordt aan de hand van typologieën 
 
 PDF [principes](/files/Principes.pdf)
 
-PDF [test](/static/img/hub_schema21.jpg)
+PDF [test](/img/hub_schema21.jpg)
 
 
 In samenwerking met: Jessika Desmet en Lies Michiels
