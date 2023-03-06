@@ -42,6 +42,8 @@ Diegene die in ons gebied omkeerden, zullen stoppen in de HUB’s. Vanuit alle H
 
 **4. Typologie:** 
 
+Het ontwerpen van de verschillende elementen wordt aan de hand van typologieën vastgelegd. Volgende zaken zijn belangrijk:
+
 * Voorzieningen worden verspreid doorheen het gebied om eentonigheid van woongebied verder te doorbreken.
 * De identiteit van de site wordt gerespecteerd door typologieën niet te sterk te veranderen en bepaalde constructies te behouden.
 *  Niet gekozen voor zoveel mogelijk oppervlakte woningen, maar met aandacht voor circulatieruimte en licht en lucht; bv. een omsloten binnentuin is enkel een meerwaarde als die groot genoeg is, anders wordt dat een donker '*over-schotplekje*'.
