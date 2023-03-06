@@ -10,7 +10,7 @@ gallery_folder: images/projecten_schoolcampus
 ---
 # Scholencampus Gent
 
-3de bachelor architectuur. 
+*3de bachelor architectuur.* 
 
 Het creëren van een scholencampus in samenwerking met bedrijven. Een opdracht die zich bevindt aan de dokken van Gent waar reeds verschillende bedrijven gevestigd zijn. In het ontwerp wordt gezocht naar het creeëren van een synbiose tussen de bedrijven en de school. 
 
