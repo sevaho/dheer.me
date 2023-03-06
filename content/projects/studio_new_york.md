@@ -30,22 +30,24 @@ Als tweede willen we ingaan op het meer huisvesten van mensen in Greenpoint om t
 
 * Extra woningen op fabrieken en een nieuw woonpark. 
 * Mengen van functies om de leefbaarheid van het gebied te vergroten.
-* Naast de private en publieke delen willen we ook semipublieke zones creëren voor de omwonenden direct nabij deze plekken. Dit door inspringingen in de gebouwen, waardoor kleine pleinen ontstaan
+* Naast de private en publieke delen willen we ook semipublieke zones creëren voor de omwonenden direct nabij deze plekken. Dit door inspringingen in de gebouwen, waardoor kleine pleinen ontstaan.
 
-**3.Alternatief vervoer:** 
+**3. Alternatief vervoer:** 
 
-Doordat we auto’s gaan bannen uit het gebied, gaan we de bereikbaarheid door middel van openbaar vervoer
-verbeteren (pods, extra tram, deelfietsen,...) Alles moet bereikbaar zijn met de fiets en te voet. Binnen de 100m moet men een alternatief hebben. Binnen 100m moet men een POD kunnen nemen. 
+Als derde gaan we de bereikbaarheid door middel van openbaar vervoer verbeteren (pods, extra tram, deelfietsen,...) Alles moet bereikbaar zijn met de fiets en te voet. Binnen de 100m moet er een alternatief zijn, bijvoorbeeld een POD. 
 
 Het gebied is ontsloten door 6 HUB’s. Een HUB is standaard voorzien met fietsverhuur/fietsenstalling, fietsherstelpunt, stepverhuur, oplaadpunt voor podvervoer, ... Inzetten op kindvriendelijkheid: max 30 km/uur.
 De bestaande buslijnen werden herbekeken. Enkel de buslijnen die door ons gebied reden blijven bestaan.
-Diegene die in ons gebied omkeerden, zullen stoppen in de HUB’s.
+Diegene die in ons gebied omkeerden, zullen stoppen in de HUB’s. Vanuit alle HUB'S vertrekken POD's, dit zijn kleine zelfrijdende wagentjes die kunnen helpen om het gebied voldoende toegankelijk te maken. 
 
 **4. Typologie:** 
 
-Voorzieningen verspreiden doorheen het gebied om eentonigheid van woongebied verder te doorbreken.
-Identiteit van de site respecteren door typologieën niet te sterk te veranderen en bepaalde constructies te behouden. Niet gekozen voor zoveel mogelijk oppervlakte woningen, maar met aandacht voor circulatieruimte en licht en lucht; bv. een omsloten binnentuin is enkel een meerwaarde als die groot genoeg is, anders wordt dat een donker over-schotplekje. Ook een variatie aan typologieën, zodat de herkenbaarheid verhoogd wordt. Op het maaiveld lijkt alles op elkaar, wat het moeilijker maakt om zich te oriënteren. De typologie van de woningen kan nog steeds op elkaar lijken, maar door een andere indeling van de ruimte wordt het patroon toch wat
-minder streng. De binnen- of circulatieruimte die tussen de nieuwe woningen is vrijgelaten, kan ingevuld worden zoals bewoners dat willen; dit kunnen bv. tuintjes worden, volkstuintjes, een pleintje waar de bewoners samen kunnen komen… We verkiezen gemeenschappelijk gebruik, om zo de community te versterken.
+* Voorzieningen worden verspreid doorheen het gebied om eentonigheid van woongebied verder te doorbreken.
+* De identiteit van de site wordt gerespecteerd door typologieën niet te sterk te veranderen en bepaalde constructies te behouden.
+*  Niet gekozen voor zoveel mogelijk oppervlakte woningen, maar met aandacht voor circulatieruimte en licht en lucht; bv. een omsloten binnentuin is enkel een meerwaarde als die groot genoeg is, anders wordt dat een donker '*over-schotplekje*'.
+* een variatie aan typologieën, zodat de herkenbaarheid verhoogd wordt. Op het maaiveld lijkt alles op elkaar, wat het moeilijker maakt om zich te oriënteren. De typologie van de woningen kan nog steeds op elkaar lijken, maar door een andere indeling van de ruimte wordt het patroon toch wat
+  minder streng. 
+* De binnen- of circulatieruimte die tussen de nieuwe woningen is vrijgelaten, kan ingevuld worden zoals bewoners dat willen; dit kunnen bv. tuintjes worden, volkstuintjes, een pleintje waar de bewoners samen kunnen komen… We verkiezen gemeenschappelijk gebruik, om zo de community te versterken.
 
 PDF [principes](/files/Principes.pdf)
 
