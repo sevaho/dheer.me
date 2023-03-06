@@ -12,7 +12,7 @@ gallery_folder: images/kleuterschool_appartement
 ---
 # Kindergarten Gent
 
-1ste master architectuur
+*1ste master architectuur*
 
 In deze opdracht was het doel om via verschillende ontwerpen een volledig klimaat neutrale wijk op te bouwen. In dit specifieke ontwerp was het kernthema water, dat via op twee manieren werd opgevat. Als eerste het effectief gaan hergebruiken van water. En als tweede een bewustzijn creëren van kleins af aan. Dit op een speelse manier.
 
