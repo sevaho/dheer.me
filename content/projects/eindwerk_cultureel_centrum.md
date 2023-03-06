@@ -28,7 +28,7 @@ rijden. Daarnaast ontstaat er hier een extra plein over het water. Als tweede wi
 
 In de ruimte wordt er gebruik gemaakt van parket, dit geeft een huiselijker gevoel en geeft een contrast tegenover de betonnen structuur. Naast het huiselijk gevoel, is dit een materiaal dat goed absorbeert, waardoor de akoestiek sterk verbeterd.
 
-*Muziekzaal***:** Op het gelijkvloers is er een polyvalente zaal voorzien, waar onder andere concerten, recepties,... kunnen doorgaan. Om in connectie te kunnen gaan met de buitenruimte wordt er een glazen gevel geplaats. De ruimte geeft namelijk uit het plein aan het water. Mensen zien wat er binnen gebeurd en krijgen zo ook zin om naar binnen te gaan.
+\*Muziekzaal**\*:** Op het gelijkvloers is er een polyvalente zaal voorzien, waar onder andere concerten, recepties,... kunnen doorgaan. Om in connectie te kunnen gaan met de buitenruimte wordt er een glazen gevel geplaats. De ruimte geeft namelijk uit het plein aan het water. Mensen zien wat er binnen gebeurd en krijgen zo ook zin om naar binnen te gaan.
 
 Het plaatsen van een glazen gevel in deze ruimte kan natuurlijk ook storend zijn als er een intiemer concert bezig is. Om dit op te lossen komen er gordijnen te hangen. Deze hebben ook als voordeel dat ze het geluid absorberen. Naast de stof van het gordijn, worden er een aantal baffles voorzien die verstelbaar zijn naar gelang de functie die er aan gegeven wordt.
 
