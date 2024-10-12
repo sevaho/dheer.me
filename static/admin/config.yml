@@ -33,3 +33,19 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Summary', name: 'summary', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - label: 'Handgemaakte Kaartjes'
+    name: 'cards'
+    file: 'content/cards/_index.md'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Content', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
+      - label: 'Kaartjes'
+        name: 'cards'
+        widget: 'list'
+        collapsed: false
+        fields:
+          - { label: 'Titel', name: 'title', widget: 'string' }
+          - { label: 'Sfeerbeeld', media_folder: /assets/images/cards, name: 'image', widget: 'image', choose_url: true}

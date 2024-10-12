@@ -20,3 +20,13 @@ enableRobotsTXT = true
   name = "Contact"
   URL = "#contact"
   weight = 3
+
+  [[menu.main]]
+  name = "Handgemaakte kaartjes"
+  URL = "/cards"
+  weight = 4
+
+  [[menu.main]]
+  name = "Login"
+  URL = "/admin"
+  weight = 99
