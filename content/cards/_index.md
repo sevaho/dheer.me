@@ -2,8 +2,6 @@
 gallery_folder: /images/cards
 title: Handgemaakte Kaartjes
 cards:
-  - title: nog 1
-    image: /assets/images/cards/DSC_0691.JPG
   - title: Kaartje voor Flore
     image: /assets/images/cards/img20220521132951.jpg
   - image: /assets/images/cards/img20230804200335.jpg
