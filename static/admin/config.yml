@@ -36,7 +36,8 @@ collections:
 
   - label: 'Handgemaakte Kaartjes'
     name: 'cards'
-    file: 'content/cards/_index.md'
+    folder: 'content/cards'
+    file: '_index.md'
     editor:
       preview: true
     fields:
