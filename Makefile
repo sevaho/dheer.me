@@ -16,4 +16,7 @@ dev: ## Run development server
 build: ## Build
 	hugo
 
+local: ## Local
+	hugo server -D --bind 192.168.0.195 --port 8080 --baseURL http://192.168.0.195:8080
+
 # cursor: 15 del

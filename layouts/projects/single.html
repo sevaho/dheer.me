@@ -17,7 +17,7 @@
         {{ $gallery := (print .Params.gallery_folder "/*") }}
         <div class="row gx-4 gx-lg-5 justify-content-center">
           <div class="col-lg-8">
-            <div class="pswp-gallery" id="gallery">
+            <div class="pswp-gallery x-projects-pswp-gallery" id="gallery">
             {{ range $k, $v := resources.Match $gallery }}
             {{ $image := resources.Get $v }}
 
