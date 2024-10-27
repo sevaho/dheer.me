@@ -1,5 +1,6 @@
 ---
 facebook: https://www.facebook.com/sofie.dheer
+description: Ontdek de innovatieve ontwerpen van Sofie d'heer, een architect die zich inzet voor het creëren van unieke en duurzame ruimtes. Bekijk vandaag nog haar portfolio.
 about:
   title: Over Sofie
   image: images/profile.jpeg

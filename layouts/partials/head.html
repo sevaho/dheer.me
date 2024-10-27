@@ -5,14 +5,14 @@
     <title>{{ $title }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="{{ .Site.Params.Description }}" />
-
-    <meta name="description" content="{{ .Site.Params.Description }}"/>
-    <meta name="og:description" content="{{ .Site.Params.Description }}"/>
+    {{ with site.GetPage "" }}
+    <meta name="description" content="{{ .Params.Description }}"/>
+    <meta name="og:description" content="{{ .Params.Description }}"/>
+    {{ end }}
     <meta name="og:title" content="{{ $title }}"/>
     <meta property="og:type" content="website"/>
 
-        <meta name="keywords" content="Sofie D'heer, architectuur, portfolio, D'heer architect, architect."/>
+        <meta name="keywords" content="Sofie, Sofie D'heer, Sofie dheer, dheer, architect, architectuur, portfolio, D'heer architect"/>
 
     {{ with resources.Get "favicon.png" }}
     {{ with .Resize "15x webp" }}
