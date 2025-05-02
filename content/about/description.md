@@ -8,7 +8,7 @@ Carrière:
 * 2013-2018 Bachelor en Master in de architectuur
 * 2018-2020 Master in de stedenbouw en ruimtelijke planning
 * 2020-2022 Stagiair architect bij [Architectenbureau Van Severen](https://www.architectenvs.be)
-* 2021 - 2023 Postgraduaat Renovatietechnieken en Monumentenzorg
+* 2021-2023 Postgraduaat Renovatietechnieken en Monumentenzorg
 
 Huidige activiteiten:
 
